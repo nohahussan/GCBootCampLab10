@@ -1,0 +1,6 @@
+/Users/Noha/Desktop/practice/Lab10/Lab10/bin/Debug/Lab10.exe
+/Users/Noha/Desktop/practice/Lab10/Lab10/bin/Debug/Lab10.pdb
+/Users/Noha/Desktop/practice/Lab10/Lab10/obj/x86/Debug/Lab10.csprojAssemblyReference.cache
+/Users/Noha/Desktop/practice/Lab10/Lab10/obj/x86/Debug/Lab10.csproj.CoreCompileInputs.cache
+/Users/Noha/Desktop/practice/Lab10/Lab10/obj/x86/Debug/Lab10.exe
+/Users/Noha/Desktop/practice/Lab10/Lab10/obj/x86/Debug/Lab10.pdb
